@@ -39,7 +39,7 @@ public class RollTheDice {
 
             System.out.println("Roll " + i + ": "+ roll1 + " - " + roll2 + " Sum: " + rollTotal);
 
-//
+////
 
 
         }
